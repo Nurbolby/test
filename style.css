@@ -1,0 +1,79 @@
+.hero {
+	display: flex;
+	flex-wrap: wrap;
+	height: 1400px;
+	width: 100%;
+	max-width: 1070px;
+	background-color: #fff;
+	position: absolute;
+	border: 1px solid #DFE0EB;
+	box-sizing: border-box;
+	border-radius: 8px;
+}
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+	height: 211px;
+
+}
+.name {
+	display: flex;
+	width: 100%;
+    height: 24px;
+    color: #252733;
+    font-family: 'Mulish', sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 19px;
+	line-height: 24px;
+	margin-top: 32px;
+	margin-left: 32px;
+	margin-bottom: 0px;
+} 
+
+.img66 {
+	display: flex;
+	width: 213px;
+	height: 211px;
+	margin-top: 18px;
+	margin-left: 32px;
+
+}
+.form {
+	display: flex;
+	flex-wrap: wrap;
+	width: 600px;
+	height: 210px;
+	margin-left: 18px;
+	margin-top: 18px;
+}
+.forms {
+	display: flex;
+	flex-wrap: wrap;
+	width: 260px;
+	height: 43px;
+	align-content: center;
+	justify-content: space-around;
+
+}
+.forms__name {
+	display: flex;
+	left: 0px;
+
+}
+.forms__value {
+    display: flex;
+    border-bottom: 1px solid #DFE0EB;
+}
+.back__for__img {
+	display: flex;
+	position: relative;
+	margin-top: -370px;
+	margin-left: 32px;
+	width: 732px;
+	height: 558px;
+	align-items: center;
+	justify-content: center;
+	background-color: #C4C4C4;
+}
